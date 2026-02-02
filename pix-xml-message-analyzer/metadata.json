@@ -1,0 +1,5 @@
+{
+  "name": "PIX XML Message Analyzer",
+  "description": "A professional tool for analyzing and comparing Payer and Receiver XML messages (pacs.008 and pacs.002) with integrated JSON BusMsg extraction.",
+  "requestFramePermissions": []
+}
